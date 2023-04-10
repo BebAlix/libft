@@ -53,6 +53,14 @@ Make a my own libc with this fonction :
 • ft_lstiter
 • ft_lstmap
 
+I add two other project in the libft with this functions :
+
+• get_next_line
+
+• ft_printf
+
+
+
 ## How to use
 
 - compile and create the lib.a :
